@@ -32,7 +32,7 @@ function RecommendedVideos() {
           image='https://i.ytimg.com/vi/7_rz28FDpYM/hq720.jpg?sqp=-oaymwEZCNAFEJQDSFXyq4qpAwsIARUAAIhCGAFwAQ==&rs=AOn4CLCmJD5msmnDgHvpmByx1UsK2dD9iQ'
         />
         <VideoCard
-          title='🔴 7 Most Popular JavaScript Libraries in 2020'
+          title='7 Most Popular JavaScript Libraries in 2020'
           views='9.3K Views'
           timestamp='1 month ago'
           channelImage='https://yt3.ggpht.com/a-/AOh14GhOUP_9re93yOMdN4RLQLHl6Mbk6vmUS1524w=s68-c-k-c0x00ffffff-no-rj-mo'
@@ -72,12 +72,63 @@ function RecommendedVideos() {
           image='https://i.ytimg.com/vi/rqw3OftE5sA/hq720.jpg?sqp=-oaymwEZCNAFEJQDSFXyq4qpAwsIARUAAIhCGAFwAQ==&rs=AOn4CLDQLemWME87k6i_e1Qy9LGcMZJBqg'
         />
         <VideoCard
-          title='🔴 Build a Zoom Clone with Node JS for Beginners'
+          title='Build a Zoom Clone with Node JS for Beginners'
           views='104K Views'
           timestamp='2 week ago'
           channelImage='https://yt3.ggpht.com/a-/AOh14GhOUP_9re93yOMdN4RLQLHl6Mbk6vmUS1524w=s68-c-k-c0x00ffffff-no-rj-mo'
           channel='Clever Programmer'
           image='https://i.ytimg.com/vi/ZVznzY7EjuY/hq720.jpg?sqp=-oaymwEZCNAFEJQDSFXyq4qpAwsIARUAAIhCGAFwAQ==&rs=AOn4CLAAHmiSo1PUEJ1QQ0Otifpqfqo_hg'
+        />
+        {/*Testing*/}
+        <VideoCard
+          title='Build a iMessage Clone with REACT.JS for Beginners! (with REDUX)'
+          views='9.3K Views'
+          timestamp='1 month ago'
+          channelImage='https://yt3.ggpht.com/a-/AOh14GhOUP_9re93yOMdN4RLQLHl6Mbk6vmUS1524w=s68-c-k-c0x00ffffff-no-rj-mo'
+          channel='Clever Programmer'
+          image='https://i.ytimg.com/vi/BKY0avHeda8/maxresdefault.jpg'
+        />
+        <VideoCard
+          title='Animated Smoke Text with CSS & Vanilla Javascript | CSS Animation Effects'
+          views='83M Views'
+          timestamp='2 years ago'
+          channelImage='https://yt3.ggpht.com/ytc/AAUvwngFCKugZwen-81xq0K_0tSU6HQZsvjQ26xsQzO7zg=s88-c-k-c0x00ffffff-no-rj'
+          channel='Online Tutorials'
+          image='https://i.ytimg.com/vi/FAK-43mw3x8/maxresdefault.jpg'
+        />
+        <VideoCard
+          title='Stunning CSS & Javascript Animation and Hover Effects | January 2020'
+          views='190K Views'
+          timestamp='3 month ago'
+          channelImage='https://yt3.ggpht.com/ytc/AAUvwngFCKugZwen-81xq0K_0tSU6HQZsvjQ26xsQzO7zg=s88-c-k-c0x00ffffff-no-rj'
+          channel='Online Tutorials'
+          image='https://i.ytimg.com/vi/bbHuo22R34I/maxresdefault.jpg'
+        />
+        <VideoCard
+          title='Pure CSS Text Reveal From Smoke Animation Effect | CSS Animation Tutorial | Part 1/2'
+          views='9.3K Views'
+          timestamp='1 month ago'
+          channelImage='https://yt3.ggpht.com/ytc/AAUvwngFCKugZwen-81xq0K_0tSU6HQZsvjQ26xsQzO7zg=s88-c-k-c0x00ffffff-no-rj'
+          channel='Online Tutorials'
+          image='https://i.ytimg.com/vi/lx3UtGiRcYA/maxresdefault.jpg'
+        />
+        <VideoCard
+          title='Responsive Website Design Using HTML CSS & Javascript | Step By Step Website Design Tutorial
+          '
+          views='83M Views'
+          timestamp='2 years ago'
+          channelImage='https://yt3.ggpht.com/ytc/AAUvwngFCKugZwen-81xq0K_0tSU6HQZsvjQ26xsQzO7zg=s88-c-k-c0x00ffffff-no-rj'
+          channel='Online Tutorials'
+          image='https://i.ytimg.com/vi/QqWo7i7bLCU/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLB3-or411XtupNpi1HX0Xte_Dop6A'
+        />
+        <VideoCard
+          title='FontAwesome Icon Background Animation Effects | CSS Animated Background
+          '
+          views='190K Views'
+          timestamp='3 month ago'
+          channelImage='https://yt3.ggpht.com/ytc/AAUvwngFCKugZwen-81xq0K_0tSU6HQZsvjQ26xsQzO7zg=s88-c-k-c0x00ffffff-no-rj'
+          channel='Online Tutorials'
+          image='https://i.ytimg.com/vi/fDSd2fudits/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDWgGCkIA3TyqNdlmqDf5Q06qxIIQ'
         />
       </div>
     </div>
